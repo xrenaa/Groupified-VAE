@@ -30,9 +30,9 @@ We further provide an implementation of **isomorphism** based on two Group const
 ## Latent space visualization
 | dSprites AnnealVAE |  |
 | :---: | :---: |
-| $C_{max} = 10$, Original | $C_max = 20$, Original|
+| C_max = 10, Original | C_max = 20, Original|
 | ![image](./images/88latent.png) | ![image](./images/168latent.png) |
-| $C_{max} = 10$, Groupified | $C_{max} = 20$, Groupified |
+| C_max = 10$, Groupified | C_max = 20, Groupified |
 | ![image](./images/98latent.png) | ![image](./images/178latent.png) |
 
 ## Qualitative results
