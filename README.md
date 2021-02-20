@@ -49,7 +49,7 @@ We further provide an implementation of **isomorphism** based on two Group const
 | ![image](./images/253kl.png) | <img src= ./images/253traver.png width="1000px"> |
 
 ## Downstream Task Performance
-![image](./images/downstream.png)
+![image](./images/downstream.PNG)
 
 
 
