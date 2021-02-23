@@ -2,7 +2,7 @@
 
 > **GroupifyVAE: from Group-based  Definition to VAE-based Unsupervised Representation Disentanglement** <br>
 > Tao Yang, Xuanchi Ren, Yuwang Wang, Wenjun Zeng, Nanning Zheng and Pengju Ren <br>
-> *arXiv preprint arXiv:2007.06600*<br>
+> *arXiv preprint arXiv:2102.10303*<br>
 > 
 [[Paper](https://arxiv.org/abs/2102.10303)]
 [[Appendix](./GroupifyNet_ICML_2021_appendix.pdf)]
