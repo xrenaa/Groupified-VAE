@@ -4,7 +4,7 @@
 > Tao Yang, Xuanchi Ren, Yuwang Wang, Wenjun Zeng, Nanning Zheng and Pengju Ren <br>
 > *arXiv preprint arXiv:2007.06600*<br>
 > 
-[[Paper](https://arxiv.org/abs/2102.10303s)]
+[[Paper](https://arxiv.org/abs/2102.10303)]
 [[Appendix](./GroupifyNet_ICML_2021_appendix.pdf)]
 
 In this repo, we propose a specific form of the **group-based definition** and prove its two equivalent conditions: **isomorphism** and ``the constancy of permutations''. And the inceptaul framework is as follows
